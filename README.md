@@ -1,7 +1,7 @@
 # Hi, I'm Kiethy V. Bangamu Arrachchige! 👋
 
 I am a passionate IT student at Xavier University College, driven by a curiosity for new technology and a passion for creating new technology. I love to share my ideas across different communities with similar interests on what i do so that it drives me to seek and continue to enjoy what i wanted to do.
-![KiethlyBangamu's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![KiethlyBangamu's Stats]([https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true](https://github.com/KeithlyBangamu/KiethlyBangamu/edit/main/README.md#L4C33-L4C37))
 
 ## 🚀 About Me
 - 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University College.
