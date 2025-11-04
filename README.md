@@ -22,3 +22,8 @@ I am a passionate IT student at Xavier University College, driven by a curiosity
 - 🌟 Completed Git & GitHub Setup 2025
 - Created a webisite with database
 - 🔭 I’m currently working on my final API project.
+
+## Fun Fact
+- I like to watch anime
+- I want to build new games using my own knowledge
+- Id like to suceed in life
